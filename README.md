@@ -29,13 +29,14 @@ Berikut adalah draft README GitHub yang menarik berdasarkan analisis tadi:
 
 ---
 
-# ⚪Perbandingan Antarmuka Pengaturan: **Windows** vs **Kali Linux**
+# ⚪Perbandingan Antarmuka Settings: **Windows** vs **Kali Linux**
 
 Sistem operasi Windows dan Kali Linux memiliki pendekatan berbeda dalam desain antarmuka pengaturan mereka. Berikut adalah perbandingan visual dan fungsional.
 
-Berikut adalah perbedaan utama antara antarmuka pengaturan di **Kali Linux** dan **Windows**
+# ⚡Settings di Kali Linux
 ![Screenshot_2025-02-03_06-46-55](https://github.com/user-attachments/assets/f9ddc450-9e2a-4c1b-8d93-a162c4d8b030)
 
+# ⚡Setting di Windows
 ![2025-02-04 (3)](https://github.com/user-attachments/assets/1dfd56b7-399d-4eae-ad5b-401855d49ea5)
 
 ---
