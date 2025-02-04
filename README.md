@@ -31,34 +31,62 @@ Berikut adalah draft README GitHub yang menarik berdasarkan analisis tadi:
 
 # ⚪Perbandingan Antarmuka Pengaturan: **Windows** vs **Kali Linux**
 
-Sistem operasi Windows dan Kali Linux memiliki pendekatan berbeda dalam desain antarmuka pengaturan mereka. Berikut adalah perbandingan visual dan fungsional untuk membantu Anda memahami keunikan masing-masing.
+Sistem operasi Windows dan Kali Linux memiliki pendekatan berbeda dalam desain antarmuka pengaturan mereka. Berikut adalah perbandingan visual dan fungsional.
 
----
-
-## **1. Tampilan dan Tata Letak**
-### **Kali Linux Settings**
-- **Tata Letak**: 
-  - Antarmuka berbasis grid dengan ikon besar, memudahkan pengguna untuk langsung mengakses kategori tertentu.
-  - Semua opsi langsung terlihat pada layar utama, memberikan kontrol penuh tanpa banyak navigasi tambahan.
-- **Prioritas**:
-  - Memberikan kontrol granular untuk konfigurasi sistem, perangkat keras, dan jaringan.
-  - Fitur teknis seperti "Kali Tweaks" membantu pengguna tingkat lanjut untuk menyesuaikan sistem.
-- **Target Pengguna**: Profesional di bidang keamanan siber dan administrasi jaringan.
+Berikut adalah perbedaan utama antara antarmuka pengaturan di **Kali Linux** dan **Windows**
 ![Screenshot_2025-02-03_06-46-55](https://github.com/user-attachments/assets/f9ddc450-9e2a-4c1b-8d93-a162c4d8b030)
 
+![2025-02-04 (3)](https://github.com/user-attachments/assets/1dfd56b7-399d-4eae-ad5b-401855d49ea5)
 
 ---
 
-### **Windows Settings**
-- **Tata Letak**:
-  - Sidebar di sebelah kiri untuk navigasi utama.
-  - Panel kanan menampilkan detail pengaturan dengan desain modern dan intuitif.
-  - Rekomendasi pengaturan sering digunakan seperti penyimpanan, perangkat Bluetooth, dan personalisasi.
-- **Prioritas**:
-  - Fokus pada pengalaman pengguna yang sederhana, dengan integrasi layanan Microsoft seperti OneDrive, Microsoft 365, dan Xbox.
-  - Dirancang untuk kenyamanan pengguna sehari-hari.
-- **Target Pengguna**: Pengguna umum yang membutuhkan antarmuka intuitif dengan layanan berbasis cloud.
-![2025-02-04 (3)](https://github.com/user-attachments/assets/1dfd56b7-399d-4eae-ad5b-401855d49ea5)
+## **1. Organisasi Tata Letak**
+
+### **Kali Linux**:
+- **Berbasis Grid**:
+  - Semua pengaturan disusun dalam bentuk ikon grid besar.
+  - Tidak ada panel samping; semua opsi terlihat di satu layar.
+  - Setiap ikon pengaturan menggambarkan fungsinya dengan visual sederhana.
+
+### **Windows**:
+- **Berbasis Sidebar dan Panel**:
+  - Sidebar di sisi kiri menyediakan kategori utama.
+  - Panel kanan menampilkan rincian pengaturan untuk kategori yang dipilih.
+  - Antarmuka lebih hierarkis dengan navigasi bertahap.
+
+
+## **2. Fitur Unggulan yang Ditampilkan**
+
+### **Kali Linux**:
+- Memiliki pengaturan yang berfokus pada **pengendalian perangkat keras** dan **sistem operasi**:
+  - **Advanced Network Configuration**: Pengaturan jaringan tingkat lanjut.
+  - **Kali Tweaks**: Alat khusus untuk menyesuaikan lingkungan Kali Linux.
+  - **Window Manager Tweaks**: Pengaturan detail untuk tata letak jendela.
+  - **PulseAudio Volume Control**: Kontrol mendalam untuk audio.
+
+### **Windows**:
+- Memiliki integrasi **layanan cloud** dan fitur berbasis pengguna sehari-hari:
+  - **Cloud Storage**: Terintegrasi dengan OneDrive untuk penyimpanan.
+  - **Microsoft 365**: Menyediakan akses cepat untuk layanan seperti Word, Excel, dan PowerPoint.
+  - **Rekomendasi Pengaturan**: Menampilkan saran pengaturan yang sering digunakan (seperti Bluetooth, penyimpanan, dan suara).
+  - **Gaming**: Pengaturan terkait game dan Xbox.
+
+
+## **3. Estetika Desain**
+
+### **Kali Linux**:
+- **Fungsional**:
+  - Tidak terlalu fokus pada estetika.
+  - Desain sederhana dengan ikon besar untuk kemudahan akses.
+  - Cocok untuk pengguna teknis yang mencari efisiensi.
+
+### **Windows**:
+- **Modern dan Estetis**:
+  - Menggunakan desain minimalis dengan font halus dan warna gelap yang nyaman di mata.
+  - Panel kanan menampilkan informasi dalam tata letak yang menarik secara visual.
+  - Ikon dan elemen desain memberikan pengalaman yang lebih intuitif.
+
+
 
 
 
