@@ -87,6 +87,40 @@ Sistem operasi Windows dan Kali Linux memiliki pendekatan berbeda dalam desain a
   - Panel kanan menampilkan informasi dalam tata letak yang menarik secara visual.
   - Ikon dan elemen desain memberikan pengalaman yang lebih intuitif.
 
+# 🖥️ Perbedaan File Explorer dan Thunar
+
+### 1️⃣ Tampilan dan Antarmuka
+- 🏁 **Windows**: Antarmuka modern dengan ikon berwarna, panel navigasi lengkap, dan fitur pencarian kuat di File Explorer.
+- 🐧 **Kali Linux**: Menggunakan Thunar sebagai file manager dengan desain sederhana, ikon biru polos, dan tampilan minimalis.
+
+### 2️⃣ Struktur File dan Direktori
+- **Windows**: Menampilkan direktori seperti `Desktop`, `Documents`, `Downloads`, dan `Pictures` dalam drive spesifik seperti `C:`.
+- **Kali Linux**: Memiliki direktori standar Linux seperti `/home`, `/etc`, `/var`, dan root file system (`/`).
+
+### 3️⃣ Navigasi dan Fitur File Manager
+- **Windows**: Memiliki fitur "Quick Access" dan "Recent Files" untuk memudahkan navigasi.
+- **Kali Linux**: (menggunakan Thunar) Tidak menampilkan daftar file terbaru secara langsung tetapi memiliki akses ke perangkat jaringan dan sistem file.
+
+### 4️⃣ Sistem Operasi dan Penggunaannya
+- **Windows**: Ramah pengguna dan umum digunakan untuk keperluan sehari-hari, bisnis, dan gaming.
+- **Kali Linux**: Dirancang untuk keamanan siber dan uji penetrasi, sering digunakan oleh profesional IT dan hacker etis.
+
+## 📷 Tampilan File Manager
+![2025-02-04 (4)](https://github.com/user-attachments/assets/56889eef-f4b7-4ee6-8fc3-d5a809745523)
+
+
+
+### **Kali Linux File Manager (Thunar)**
+![Screenshot_2025-02-04_04-38-54](https://github.com/user-attachments/assets/fd77bad1-cdc8-4dac-9d74-0ebad4bbe512)
+
+---
+
+## 🔗 Kesimpulan
+- ✅ **Gunakan Windows** jika Anda memerlukan OS yang mudah digunakan untuk keperluan umum seperti pekerjaan, hiburan, dan gaming.
+- 🔍 **Gunakan Kali Linux** jika Anda tertarik pada keamanan siber, ethical hacking, dan ingin belajar lebih dalam tentang sistem Linux.
+
+
+
 
 
 
