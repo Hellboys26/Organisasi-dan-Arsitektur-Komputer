@@ -126,6 +126,5 @@ Sistem operasi Windows dan Kali Linux memiliki pendekatan berbeda dalam desain a
 
 
 
-
   
 
